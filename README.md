@@ -18,6 +18,7 @@
   * [Preloaders](https://icons8.com/preloaders/) | [LOADING.IO](https://loading.io/) (加载图，**有些是收费的**)
   * [desktoppr](https://www.desktoppr.co/wallpapers) (好看的壁纸)
   * [Material icons](https://material.io/tools/icons/?style=baseline) (Material icons图标)
+  * [Iloveimg](https://www.iloveimg.com/zh-cn) (批量编辑图片的所有工具。包括压缩图片，剪裁图片，图片加水印，转化至jpg图片等等)
 
  ## 代码类⌨️
 
@@ -56,6 +57,7 @@
   * [草料二维码](https://cli.im/) (在线生成二维码)
   * [声享](https://ppt.baomitu.com) (在线制作 PPT)
   * [幕布](https://mubu.com/) (极简大纲笔记，一键生成思维导图)
+  * [Infogram](https://infogram.com/) (在线图表制作工具)
  
 
 ## 查询类🔎
