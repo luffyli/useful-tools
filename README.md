@@ -58,9 +58,11 @@
   * [声享](https://ppt.baomitu.com) (在线制作 PPT)
   * [幕布](https://mubu.com/) (极简大纲笔记，一键生成思维导图)
   * [Infogram](https://infogram.com/) (在线图表制作工具)
- 
+  * [UZER.ME](https://uzer.me/) (能够在线使用ps，ai，office，xmind，火狐浏览器等多个应用的网站)
+  * [NiceTool](http://www.nicetool.net/) (在线工具集合网站)
 
 ## 查询类🔎
 
  * [devhints](https://devhints.io/) (常用速查表，快速查询各类框架和库的常用方法，很实用)
  * [印记中文](https://docschina.org/) (快速查询各类框架和周边库的中文文档)
+ * [Css Triggers](https://csstriggers.com/) (列出了哪些CSS属性在不同的渲染引擎中是否会触发重排或重绘)
